@@ -1,0 +1,6 @@
+{
+  "name": "Nour Hijab Couture | بوتيك نور للأزياء الراقية للمحجبات",
+  "description": "متجر الكتروني احترافي لأرقى الأزياء النسائية للمحجبات، فساتين سهرة وعبايات راقية مع طلب واستفسار مباشر عبر الواتساب ودعم اللغات الثلاث والوضع الليلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
